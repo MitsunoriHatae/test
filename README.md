@@ -1,7 +1,7 @@
 # test
 
-#### master Mod
+#### Master Mod
 git Test
 
-#### branch Mod
+#### Branch Mod
 git branch Test
