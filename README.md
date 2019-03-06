@@ -9,6 +9,9 @@ git branch Test
 #### Merge
 git hogehoge
 
+#### Merge2
+git hogehoge2
+
 #### Develop Add
 git branch develop
 
