@@ -6,6 +6,9 @@ git Test
 #### Branch Mod
 git branch Test
 
+#### Merge
+git hogehoge
+
 #### Develop Add
 git branch develop
 
